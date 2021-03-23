@@ -1,0 +1,43 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "cassowary",
+        "repositoryURL": "https://github.com/compnerd/cassowary.git",
+        "state": {
+          "branch": "main",
+          "revision": "a438611231901f9f350da27857d786f7979d578b",
+          "version": null
+        }
+      },
+      {
+        "package": "SwiftCOM",
+        "repositoryURL": "https://github.com/compnerd/swift-com.git",
+        "state": {
+          "branch": "main",
+          "revision": "5e3e883932a967dc933b0aa93589a6386a3d79c2",
+          "version": null
+        }
+      },
+      {
+        "package": "swift-log",
+        "repositoryURL": "https://github.com/apple/swift-log.git",
+        "state": {
+          "branch": "main",
+          "revision": "bda2661797277399ffa66c29701659c2ba02aba4",
+          "version": null
+        }
+      },
+      {
+        "package": "SwiftWin32",
+        "repositoryURL": "https://github.com/compnerd/swift-win32.git",
+        "state": {
+          "branch": "main",
+          "revision": "4ba773f20cf8aba2f7a00daa37a3044c6702ee23",
+          "version": null
+        }
+      }
+    ]
+  },
+  "version": 1
+}
